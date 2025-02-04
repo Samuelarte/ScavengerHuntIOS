@@ -21,3 +21,6 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 - [X] User can launch camera to snap a picture	
+
+
+The link to the Walkthrough is: https://youtu.be/GyH6MhZhE8w
