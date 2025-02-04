@@ -2,7 +2,7 @@
 //  ScavengerHuntUITestsLaunchTests.swift
 //  ScavengerHuntUITests
 //
-//  Created by Erisanny Vargas on 2/3/25.
+//  Created by Samuel Lopez on 2/3/25.
 //
 
 import XCTest

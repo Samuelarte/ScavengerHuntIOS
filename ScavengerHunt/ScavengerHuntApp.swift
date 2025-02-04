@@ -2,7 +2,7 @@
 //  ScavengerHuntApp.swift
 //  ScavengerHunt
 //
-//  Created by Erisanny Vargas on 2/3/25.
+//  Created Samuel Lopez on 2/3/25.
 //
 
 import SwiftUI
